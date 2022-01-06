@@ -123,3 +123,37 @@ p{
 .ft-c{
     color: tomato;
 }
+#border-one{
+    border-left: 10px solid;
+    border-right: 10px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+#border-two{
+    border-left: 10px solid;
+    border-right: 10px solid;
+    border-image: linear-gradient(green,indigo);
+    border-image-slice: 1;
+}
+.box-sh{
+    box-shadow: 10px 10px 10px 10px gray;
+    width: 40%;
+    margin-left: 8%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    
+}
+.abc{
+    font-weight: 900;
+}
+.cdf{
+    padding-left: 10px;
+    padding-right: 15px;
+    font-size: 20px;
+    
+}
+.Red-color{
+    color: indigo;
+}
