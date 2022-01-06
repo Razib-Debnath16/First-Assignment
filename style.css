@@ -42,9 +42,9 @@ p{
     margin-left: 4%;
 }
 .half-width img{
-    width: 70%;
-    padding: 20px 20px ;
-    padding-left: 40px;
+    width: 90%;
+    padding: 20px 1px;
+    margin-right: 10%;
 }
 #first-border{
     border-left: 5px solid;
@@ -83,7 +83,7 @@ p{
 .part-thr{
     width: 100%;
     padding: 10px 0px 10px 0px;
-    margin-right: 15%;
+    margin-right: 16%;
 }
 .part-three img{
     width: 60%;
@@ -95,4 +95,31 @@ p{
     margin-left: 6%;
     background-repeat: no-repeat;
     background-position: left;
+}
+.part-frth{
+    
+    padding: 5px;
+    margin-left: 12%;
+   
+}
+.frth-sc{
+    background-image: url(images/shp/shape-1_1_20.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    margin-right: 12%;
+    padding-left: 10px;
+  
+}
+.part-four img{
+    width: 55%;
+    padding: 10px ;
+    margin-left: 28%;
+}
+.foot{
+    text-align: center;
+    background-color: #000000e7;
+    color: white;
+}
+.ft-c{
+    color: tomato;
 }
